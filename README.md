@@ -2,7 +2,7 @@
 
 <h1 align="center">🚀 𝗛𝗘𝗬, 𝗜'𝗠 𝗠𝗥 𝗦𝗠𝗜𝗟𝗘</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=450&lines=Full+Stack+Dev+%7C+Tech+Builder;Automation+Lover+%7C+Bot+Engineer;Cyber+Tools+Maker+%7C+DarkTech+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=450&lines=Full+Stack+Dev+%7C+Tech+Builder;Automation+Lover+%7C+Bot+Engineer;Cyber+Tools+Maker+%7C+Hackers+Founder" alt="Typing SVG" />
 </p>
 
 ---
