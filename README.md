@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for a Tech-Focused Developer -->
 
-<h1 align="center">🚀 𝗛𝗘𝗬, 𝗜'𝗠 𝗔 𝗧𝗘𝗖𝗛 𝗕𝗨𝗜𝗟𝗗𝗘𝗥</h1>
+<h1 align="center">🚀 𝗛𝗘𝗬, 𝗜'𝗠 𝗠𝗥 𝗦𝗠𝗜𝗟𝗘</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=450&lines=Full+Stack+Dev+%7C+Tech+Builder;Automation+Lover+%7C+Bot+Engineer;Cyber+Tools+Maker+%7C+DarkTech+Founder" alt="Typing SVG" />
 </p>
@@ -10,7 +10,7 @@
 ### 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
 - 💻 Tech Enthusiast | System Builder | Ethical Hacker  
-- ⚒️ Founder of **DarkTech** & Developer of multiple bot systems  
+- ⚒️ Founder of **MR SMILE** & Developer of multiple bot systems  
 - 🧪 Experimenting with **AI**, **Automation**, **Cybersecurity**, and **Toolkits**  
 - 🛠️ Crafting powerful tools for fun, learning, and the dark side of tech 😎
 
@@ -26,8 +26,8 @@
 
 ### 🚀 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝗜 𝗕𝗨𝗜𝗟𝗧
 
-- 🤖 **DARK-MD V²** — Modular WhatsApp bot with stylish menu and voice UI  
-- 🛰️ **XenoCrypt XD** — Prank apps + cyber toolkits for ethical testing  
+- 🤖 **CRUSH LORD V4** — Modular WhatsApp bot with stylish menu and voice UI  
+- 🛰️ **SYSTEM** —  apps + cyber toolkits for ethical testing  
 - 📱 **FindMyDevice WebApp** — Phone/email tracker with secure login  
 - 🎛️ **System Panel** — Full Heroku + Render deployment panel for bots  
 - 🔐 **Account Checker** — Security checker & alert system for credentials
@@ -56,4 +56,4 @@
 ---
 
 <p align="center"><b>〄 𝗣𝗨𝗦𝗛 𝗖𝗢𝗗𝗘. 𝗕𝗨𝗜𝗟𝗗 𝗧𝗢𝗢𝗟𝗦. 𝗗𝗢𝗠𝗜𝗡𝗔𝗧𝗘 𝗧𝗘𝗖𝗛.</b></p>
-<p align="center">💥 Powered by <i>DarkTech Devs</i> 💥</p>
+<p align="center">💥 Powered by <i>© MR SMILE</i> 💥</p>
